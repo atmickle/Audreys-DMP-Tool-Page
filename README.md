@@ -9,6 +9,27 @@ DMP Tool gives users the ability to save and come back to their work, export the
 
 DMP Tool administrators have the ability to create and customize templates to offer to departments and groups to use the same template. 
 
+## Administrators 
+
+### DMP Tool Documentation
+
+- [Explaination of the tool's administrative capibilities](https://github.com/CDLUC3/dmptool/wiki/Institution-Profile-Customization)
+- [Available Roles in the tool](https://github.com/CDLUC3/dmptool/wiki/Administrator-Roles)
+
+Here is info from the [help section](https://github.com/CDLUC3/dmptool/wiki/FAQ) from the DMP Tool site for Administrators:
+
+>**For Administrators**
+
+>[Where can I find help customizing the DMPTool for my institution?](https://github.com/CDLUC3/dmptool/wiki/FAQ#q-where-can-i-find-help-customizing-the-dmptool-for-my-institution)
+
+>[How do I create a DMP template for my multi-institution group or project?](https://github.com/CDLUC3/dmptool/wiki/FAQ#q-how-do-i-create-a-dmp-template-for-my-multi-institution-group-or-project)
+
+>[I created a test template. How can I delete it?](https://github.com/CDLUC3/dmptool/wiki/FAQ#q-i-created-a-test-template-how-can-i-delete-it)
+
+>[How do I format guidance?](https://github.com/CDLUC3/dmptool/wiki/FAQ#q-how-do-i-format-guidance)
+
+More advanced instruction for customizations and a glossary of terms is [here](https://github.com/CDLUC3/dmptool/wiki/Help-for-Administrators). I am happy to demonstration these and answer or research any questions. 
+
 ## Data Management Resources
 
 - [DMP Tool Guidance](https://dmptool.org/dm_guidance) 
