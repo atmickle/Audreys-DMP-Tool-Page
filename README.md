@@ -13,6 +13,4 @@ DMP Tool administrators have the ability to create and customize templates
 
 - [DMP Tool](https://dmptool.org/dm_guidance) 
 - [Harvard's Data Management Planning Guide](http://guides.library.harvard.edu/dmp)
-- 
 
-```markdown
