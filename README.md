@@ -11,9 +11,14 @@ DMP Tool administrators have the ability to create and customize templates to of
 
 ## Administrators 
 
+### Example
+
+[Create a new DMP with my test template](https://dmptool.org/plans/new?utf8=%E2%9C%93&requirements_template_id=268&commit=Next+%3E%3E).
+I have set this template up as requiring review. When you have filled out the fields, there is a Request Feedback button which will start the process. This will show you have the process looks to a researcher. To get email notifications when you plan is commented on, select the Profile button on the right of the menu bar, then select the notifications tab. Choose when you want to receive an email.
+
 ### DMP Tool Documentation
 
-- [Explaination of the tool's administrative capibilities](https://github.com/CDLUC3/dmptool/wiki/Institution-Profile-Customization)
+- [Explanation of the tool's administrative capabilities](https://github.com/CDLUC3/dmptool/wiki/Institution-Profile-Customization)
 - [Available Roles in the tool](https://github.com/CDLUC3/dmptool/wiki/Administrator-Roles)
 
 Here is info from the [help section](https://github.com/CDLUC3/dmptool/wiki/FAQ) from the DMP Tool site for Administrators:
