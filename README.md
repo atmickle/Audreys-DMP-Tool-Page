@@ -1,7 +1,7 @@
 ## Intro DMP Tool
 
 The [DMP Tool](https://dmptool.org/) is a product of the Digital Public Library of California designed to help scientists create Data Management Plans. The tool guides the user through the requirements and guidelines set out by the funders, offers suggestions, and allows institutions and repositories to offer their own suggestions. 
-The [Quick Start Guide](https://dmptool.org/quickstartguide/) is an excellent documentation of how to use the product, including how to log in with your WHOI log in credentials. 
+The **[Quick Start Guide](https://dmptool.org/quickstartguide/)** is an excellent documentation of how to use the product, including how to log in with your WHOI log in credentials. 
 
 ## Coolest Features
 
