@@ -15,8 +15,10 @@ DMP Tool administrators have the ability to create and customize templates to of
 - [Harvard's Data Management Planning Guide](http://guides.library.harvard.edu/dmp)
 
 ## Getting Help with Data Management Plans at WHOI
+
 ### Librarians
 - Audrey Mickle: amickle@whoi.edu, x2538
+
 ### Webpages
 - [Data Management Resources on Library Website](http://mblwhoilibrary.org/services/data-management-resources)
 - [Data Management from Research Office](http://www.whoi.edu/DoR/page.do?pid=44235)
