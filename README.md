@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Intro DMP Tool
 
-You can use the [editor on GitHub](https://github.com/atmickle/Audreys-DMP-Tool-Page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The [DMP Tool](https://dmptool.org/) is a product of the Digital Public Library of California designed to help scientists create Data Management Plans. The tool guides the user through the requirements and guidlines set out by the funders, offers suggestions, and allows insitutions and repositories to offer their own suggestions. 
+The [Quick Start Guide](https://dmptool.org/quickstartguide/) is an excellent documentation of how to use the product, including how to log in with your WHOI log in creditials. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Coolest Features
 
-### Markdown
+DMP Tool gives users the ability to save and come back to their work, export the document in several formats, add collaborators from other institutions, and control privacy of each document at every state. Creative users can also use it to store examples of DMPs that they want to share with lab mates, collaborativley develop protocol, or preserve DMPs from sucessful proposals for review.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+DMP Tool administrators have the ability to create and customize templates
 
 ```markdown
 Syntax highlighted code block
