@@ -7,14 +7,14 @@ The **[Quick Start Guide](https://dmptool.org/quickstartguide/)** is an excellen
 
 DMP Tool gives users the ability to save and come back to their work, export the document in several formats, add collaborators from other institutions, and control privacy of each document at every state. Creative users can also use it to store examples of DMPs that they want to share with lab mates, collaboratively develop protocol, or preserve DMPs from successful proposals for review.
 
-DMP Tool administrators have the ability to create and customize templates to offer to departments and groups to use the same template. 
+DMP Tool administrators have the ability to create and customize templates to allow departments and groups to use the same template. 
 
 ## Administrators 
 
 ### Example
 
 [Create a new DMP with my test template](https://dmptool.org/plans/new?utf8=%E2%9C%93&requirements_template_id=268&commit=Next+%3E%3E).
-I have set this template up as requiring review. When you have filled out the fields, there is a Request Feedback button which will start the process. This will show you have the process looks to a researcher. To get email notifications when you plan is commented on, select the Profile button on the right of the menu bar, then select the notifications tab. Choose when you want to receive an email.
+I have set this template up as requiring review. When you have filled out the fields, there is a Request Feedback button which will start the process. This will show you how the process looks to a researcher. To get email notifications when your plan is commented on, select the Profile button on the right of the menu bar, then select the notifications tab. Choose when you want to receive an email.
 
 ### DMP Tool Documentation
 
