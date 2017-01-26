@@ -39,6 +39,7 @@ More advanced instruction for customizations and a glossary of terms is [here](h
 
 - [DMP Tool Guidance](https://dmptool.org/dm_guidance) 
 - [Harvard's Data Management Planning Guide](http://guides.library.harvard.edu/dmp)
+- [DataOne Data Management Planning](https://www.dataone.org/data-management-planning)
 
 ## Getting Help with Data Management Plans at WHOI
 
