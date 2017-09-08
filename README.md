@@ -7,7 +7,7 @@ The **[Quick Start Guide](https://dmptool.org/quickstartguide/)** is an excellen
 
 [Slides from this presentation are available for download.](http://hdl.handle.net/1912/8668)
 
-## Coolest Features
+### Coolest Features
 
 DMP Tool gives users the ability to save and come back to their work, export the document in several formats, add collaborators from other institutions, and control privacy of each document at every state. Creative users can also use it to store examples of DMPs that they want to share with lab mates, collaboratively develop protocol, or preserve DMPs from successful proposals for review.
 
