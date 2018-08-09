@@ -1,0 +1,543 @@
+[
+  {
+    "author": [
+      {
+        "family": "Edmunds",
+        "given": "Peter J"
+      }
+    ],
+    "id": "edmunds2016calcification",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "Biological; Chemical Oceanography Data Management Office (BCO-DMO). Contact: bco-dmo-data@ whoi. edu",
+    "title": "Calcification rates and biomass of 4 coral species, 2 temperatures and 2 pCO2 levels from experiments at lter site in moorea, french polynesia, 2011 (oa\\_Corals project)",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Estapa",
+        "given": "Margaret L"
+      },
+      {
+        "family": "Buesseler",
+        "given": "Kenneth O"
+      }
+    ],
+    "id": "estapa2018sediment",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "Biological; Chemical Oceanography Data Management Office (BCO-DMO). Contact: bco-dmo-data@ whoi. edu",
+    "title": "Sediment trap gel images of settled particles that were collected from the sargasso sea between 2013 and 2014.",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Bucklin",
+        "given": "Ann"
+      },
+      {
+        "family": "O’Neill",
+        "given": "Rachel J"
+      },
+      {
+        "family": "Payne",
+        "given": "Diana"
+      }
+    ],
+    "id": "bucklin2018salp",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "Biological; Chemical Oceanography Data Management Office (BCO-DMO). Contact: bco-dmo-data@ whoi. edu",
+    "title": "Salp specimen log for genomic and transcriptomic study collected from arsv laurence m. Gould, umitaka-maru, r/v polarstern lmg1110, um-08-09, ant-xxvii-2 in the southern ocean from 2009-2011 (salp\\_Antarctic project)",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Estapa",
+        "given": "Margaret L"
+      },
+      {
+        "family": "Buesseler",
+        "given": "Kenneth O"
+      }
+    ],
+    "id": "estapa2018carbon",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "Biological; Chemical Oceanography Data Management Office (BCO-DMO). Contact: bco-dmo-data@ whoi. edu",
+    "title": "Carbon and nitrogen flux measurements from the sargasso sea from 2013-2014.",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Bucklin",
+        "given": "Ann"
+      },
+      {
+        "family": "O’Neill",
+        "given": "Rachel J"
+      },
+      {
+        "family": "Payne",
+        "given": "Diana"
+      }
+    ],
+    "id": "bucklin2018antarctic",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "Biological; Chemical Oceanography Data Management Office (BCO-DMO). Contact: bco-dmo-data@ whoi. edu",
+    "title": "Antarctic salp genome and rnaseq transcriptome from arsv laurence m. Gould, umitaka-maru, r/v polarstern lmg1110, um-08-09, ant-xxvii-2 in the southern ocean from 2009-2011 (salp\\_Antarctic project)",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Edmunds",
+        "given": "Peter J"
+      },
+      {
+        "family": "Tsounis",
+        "given": "Georgios"
+      }
+    ],
+    "id": "edmunds2016octocorals",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "Biological; Chemical Oceanography Data Management Office (BCO-DMO). Contact: bco-dmo-data@ whoi. edu",
+    "title": "Octocorals surveys 1987–2013 (st. John ltreb project, vi octocorals project).",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Edmunds",
+        "given": "Peter J"
+      },
+      {
+        "family": "Tsounis",
+        "given": "Georgios"
+      }
+    ],
+    "id": "edmunds2016scleractinia",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "Biological; Chemical Oceanography Data Management Office (BCO-DMO). Contact: bco-dmo-data@ whoi. edu",
+    "title": "Scleractinia, macroalgae and octocoral surveys describing species abundance and distribution, in st. John, usvi in 1987–2013 (st. John ltreb project, vi octocorals project).",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "McMurray",
+        "given": "Steven E"
+      },
+      {
+        "family": "Pawlik",
+        "given": "Joseph R"
+      },
+      {
+        "family": "Finelli",
+        "given": "Christopher M"
+      }
+    ],
+    "container-title": "Functional Ecology",
+    "id": "mcmurray2017demography",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "2188-2198",
+    "publisher": "Wiley Online Library",
+    "title": "Demography alters carbon flux for a dominant benthic suspension feeder, the giant barrel sponge, on conch reef, florida keys",
+    "type": "article-journal",
+    "volume": "31"
+  },
+  {
+    "author": [
+      {
+        "family": "Sommer",
+        "given": "Stephanie A"
+      },
+      {
+        "family": "Van Woudenberg",
+        "given": "Lauren"
+      },
+      {
+        "family": "Lenz",
+        "given": "Petra H"
+      },
+      {
+        "family": "Cepeda",
+        "given": "Georgina"
+      },
+      {
+        "family": "Goetze",
+        "given": "Erica"
+      }
+    ],
+    "container-title": "Molecular ecology",
+    "id": "sommer2017vertical",
+    "issue": "21",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "6136-6156",
+    "publisher": "Wiley Online Library",
+    "title": "Vertical gradients in species richness and community composition across the twilight zone in the north pacific subtropical gyre",
+    "type": "article-journal",
+    "volume": "26"
+  },
+  {
+    "author": [
+      {
+        "family": "Ito",
+        "given": "Takamitsu"
+      },
+      {
+        "family": "Bracco",
+        "given": "Annalisa"
+      },
+      {
+        "family": "Sun",
+        "given": "Daoxun"
+      }
+    ],
+    "id": "ito2017deep",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "Biological; Chemical Oceanography Data Management Office (BCO-DMO). Contact: bco-dmo-data@ whoi. edu",
+    "title": "Deep convection simulation from the mitgcm (mit general circulation model)(IVOMLS project)",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Horner",
+        "given": "Tristan J"
+      },
+      {
+        "family": "Pryer",
+        "given": "Helena V"
+      },
+      {
+        "family": "Nielsen",
+        "given": "Sune G"
+      },
+      {
+        "family": "Crockford",
+        "given": "Peter W"
+      },
+      {
+        "family": "Gauglitz",
+        "given": "Julia M"
+      },
+      {
+        "family": "Wing",
+        "given": "Boswell A"
+      },
+      {
+        "family": "Ricketts",
+        "given": "Richard D"
+      }
+    ],
+    "container-title": "Nature Communications",
+    "id": "horner2017pelagic",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "1342",
+    "publisher": "Nature Publishing Group",
+    "title": "Pelagic barite precipitation at micromolar ambient sulfate",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
+    "author": [
+      {
+        "family": "Hay",
+        "given": "Mark"
+      }
+    ],
+    "container-title": "https://hdl. handle. net/1912/9427",
+    "id": "hay2016survival",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "Biological; Chemical Oceanography Data Management Office (BCO-DMO). Contact: bco-dmo-data@ whoi. edu",
+    "title": "Survival and growth of recruit-sized ramets growing inside or outside sargassum beds (crowded and isolated conditions, respectively) in the mpa and non-mpa of two villages in fiji",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Sun",
+        "given": "Daoxun"
+      },
+      {
+        "family": "Ito",
+        "given": "Takamitsu"
+      },
+      {
+        "family": "Bracco",
+        "given": "Annalisa"
+      }
+    ],
+    "container-title": "Global Biogeochemical Cycles",
+    "id": "sun2017oceanic",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "1579-1591",
+    "publisher": "Wiley Online Library",
+    "title": "Oceanic uptake of oxygen during deep convection events through diffusive and bubble-mediated gas exchange",
+    "type": "article-journal",
+    "volume": "31"
+  },
+  {
+    "author": [
+      {
+        "family": "Goetze",
+        "given": "Erica"
+      }
+    ],
+    "id": "goetze2017ncbi",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "Biological; Chemical Oceanography Data Management Office (BCO-DMO). Contact: bco-dmo-data@ whoi. edu",
+    "title": "NCBI sequence read archive (sra) accession numbers for fastq sequence files for each zooplankton community sample (plankton population genetics project)",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Estapa",
+        "given": "Margaret L"
+      },
+      {
+        "family": "Buesseler",
+        "given": "Kenneth O"
+      }
+    ],
+    "id": "estapa2018profiling",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "Biological; Chemical Oceanography Data Management Office (BCO-DMO). Contact: bco-dmo-data@ whoi. edu",
+    "title": "Profiling float surface dates, times and locations from the sargasso sea from 2013 to 2014.",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Pierson",
+        "given": "James J"
+      },
+      {
+        "family": "Houde",
+        "given": "Edward"
+      }
+    ],
+    "id": "pierson2017anchovy",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "Biological; Chemical Oceanography Data Management Office (BCO-DMO). Contact: bco-dmo-data@ whoi. edu",
+    "title": "Anchovy data of chesapeake bay",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Daly",
+        "given": "Kendra L"
+      },
+      {
+        "family": "Saenz",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Kim",
+        "given": "Stacy"
+      }
+    ],
+    "id": "daly2018acoustic",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "Biological; Chemical Oceanography Data Management Office (BCO-DMO). Contact: bco-dmo-data@ whoi. edu",
+    "title": "Acoustic backscatter from sites in mcmurdo sound from 2014-2015 (mcmurdo predator prey project)",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "Stacy"
+      },
+      {
+        "family": "Daly",
+        "given": "Kendra L"
+      },
+      {
+        "family": "Ainley",
+        "given": "David G"
+      },
+      {
+        "family": "Ballard",
+        "given": "Grant"
+      }
+    ],
+    "id": "kim2017sea",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "Biological; Chemical Oceanography Data Management Office (BCO-DMO). Contact: bco-dmo-data@ whoi. edu",
+    "title": "Sea ice parameters near mcmurdo station, antarctica from 1986 to 2013",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Bucklin",
+        "given": "Ann"
+      }
+    ],
+    "id": "bucklin2016scientific",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "Biological; Chemical Oceanography Data Management Office (BCO-DMO). Contact: bco-dmo-data@ whoi. edu",
+    "title": "Scientific sampling event log from arsv laurence m. Gould lmg1110 in the southern ocean from nov. 2011 (salp\\_Antarctic project)",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Passow",
+        "given": "Uta"
+      },
+      {
+        "family": "Brzezinski",
+        "given": "Mark A"
+      },
+      {
+        "family": "Carlson",
+        "given": "Craig A"
+      },
+      {
+        "family": "James",
+        "given": "Anna K"
+      },
+      {
+        "family": "Parsons",
+        "given": "Rachel J"
+      },
+      {
+        "family": "Trapani",
+        "given": "Jennifer N"
+      }
+    ],
+    "id": "passow2016removal",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "Biological; Chemical Oceanography Data Management Office (BCO-DMO). Contact: bco-dmo-data@ whoi. edu",
+    "title": "Removal of organic carbon by natural bacterioplankton communities as a function of pCO2 from laboratory experiments between 2012 and 2016",
+    "type": "article-journal"
+  }
+]
