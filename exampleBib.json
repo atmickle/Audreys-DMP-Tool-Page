@@ -1,0 +1,127 @@
+[
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "Donald E."
+      }
+    ],
+    "id": "texbook",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "publisher": "Addison-Wesley Professional",
+    "title": "The tex book",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mittelbach",
+        "given": "Frank"
+      },
+      {
+        "family": "Gossens",
+        "given": "Michel"
+      },
+      {
+        "family": "Braams",
+        "given": "Johannes"
+      },
+      {
+        "family": "Carlisle",
+        "given": "David"
+      },
+      {
+        "family": "Rowley",
+        "given": "Chris"
+      }
+    ],
+    "edition": "2",
+    "id": "latex:companion",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "publisher": "Addison-Wesley Professional",
+    "title": "The latex companion",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lamport",
+        "given": "Leslie"
+      }
+    ],
+    "edition": "2",
+    "id": "latex2e",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "publisher": "Addison Wesley",
+    "publisher-place": "Massachusetts",
+    "title": "LaTeX: A document preparation system",
+    "title-short": "LaTeX",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "Donald E."
+      }
+    ],
+    "container-title": "The Computer Journal",
+    "id": "knuth:1984",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1984
+        ]
+      ]
+    },
+    "page": "97-111",
+    "publisher": "Oxford University Press",
+    "title": "Literate programming",
+    "type": "article-journal",
+    "volume": "27"
+  },
+  {
+    "author": [
+      {
+        "family": "Lesk",
+        "given": "Michael"
+      },
+      {
+        "family": "Kernighan",
+        "given": "Brian"
+      }
+    ],
+    "container-title": "Proceedings of american federation of information processing societies: 1977 national computer conference",
+    "id": "lesk:1977",
+    "issued": {
+      "date-parts": [
+        [
+          1977
+        ]
+      ]
+    },
+    "page": "879-888",
+    "publisher-place": "Dallas, Texas",
+    "title": "Computer typesetting of technical journals on UNIX",
+    "type": "paper-conference"
+  }
+]
